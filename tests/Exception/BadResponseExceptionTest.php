@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp\Tests\Exception;
+namespace Zoidberg\GuzzleHttp\Tests\Exception;
 
 use GuzzleHttp\Exception\BadResponseException;
 use GuzzleHttp\Psr7\Request;

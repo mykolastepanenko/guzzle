@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp\Tests\Exception;
+namespace Zoidberg\GuzzleHttp\Tests\Exception;
 
 use GuzzleHttp\Exception\ClientException;
 use GuzzleHttp\Exception\RequestException;

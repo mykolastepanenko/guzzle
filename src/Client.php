@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp;
+namespace Zoidberg\GuzzleHttp;
 
 use GuzzleHttp\Cookie\CookieJar;
 use GuzzleHttp\Exception\GuzzleException;

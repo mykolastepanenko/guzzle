@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp;
+namespace Zoidberg\GuzzleHttp;
 
 use GuzzleHttp\Exception\BadResponseException;
 use GuzzleHttp\Exception\TooManyRedirectsException;

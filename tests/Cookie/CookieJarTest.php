@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp\Tests\CookieJar;
+namespace Zoidberg\GuzzleHttp\Tests\CookieJar;
 
 use DateInterval;
 use DateTime;

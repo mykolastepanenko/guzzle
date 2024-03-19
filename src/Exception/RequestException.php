@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp\Exception;
+namespace Zoidberg\GuzzleHttp\Exception;
 
 use GuzzleHttp\BodySummarizer;
 use GuzzleHttp\BodySummarizerInterface;

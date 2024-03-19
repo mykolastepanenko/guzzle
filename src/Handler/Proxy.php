@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp\Handler;
+namespace Zoidberg\GuzzleHttp\Handler;
 
 use GuzzleHttp\Promise\PromiseInterface;
 use GuzzleHttp\RequestOptions;

@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp\Cookie;
+namespace Zoidberg\GuzzleHttp\Cookie;
 
 use GuzzleHttp\Utils;
 

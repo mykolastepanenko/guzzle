@@ -10,3 +10,4 @@ build/
 artifacts/
 docs/_build
 docs/*.pyc
+.idea

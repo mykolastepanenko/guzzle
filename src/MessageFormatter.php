@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp;
+namespace Zoidberg\GuzzleHttp;
 
 use Psr\Http\Message\MessageInterface;
 use Psr\Http\Message\RequestInterface;

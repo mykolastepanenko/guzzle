@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp\Tests;
+namespace Zoidberg\GuzzleHttp\Tests;
 
 class Helpers
 {

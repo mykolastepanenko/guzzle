@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp\Tests\Handler;
+namespace Zoidberg\GuzzleHttp\Tests\Handler;
 
 use GuzzleHttp\Exception\ConnectException;
 use GuzzleHttp\Handler\CurlMultiHandler;

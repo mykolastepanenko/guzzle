@@ -1,5 +1,5 @@
 {
-    "name": "guzzlehttp/guzzle",
+    "name": "zoidberg/guzzle",
     "description": "Guzzle is a PHP HTTP client library",
     "keywords": [
         "framework",
@@ -89,7 +89,7 @@
     },
     "autoload": {
         "psr-4": {
-            "GuzzleHttp\\": "src/"
+            "Zoidberg\\GuzzleHttp\\": "src/"
         },
         "files": [
             "src/functions_include.php"
@@ -97,7 +97,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "GuzzleHttp\\Tests\\": "tests/"
+            "Zoidberg\\Tests\\": "tests/"
         }
     }
 }

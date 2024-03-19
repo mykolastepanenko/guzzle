@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp\Test\Handler;
+namespace Zoidberg\GuzzleHttp\Test\Handler;
 
 use GuzzleHttp\Exception\ConnectException;
 use GuzzleHttp\Exception\RequestException;

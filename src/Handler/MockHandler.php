@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp\Handler;
+namespace Zoidberg\GuzzleHttp\Handler;
 
 use GuzzleHttp\Exception\RequestException;
 use GuzzleHttp\HandlerStack;

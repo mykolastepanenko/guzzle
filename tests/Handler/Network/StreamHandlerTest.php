@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp\Test\Handler\Network;
+namespace Zoidberg\GuzzleHttp\Test\Handler\Network;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Handler\StreamHandler;
